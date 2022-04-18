@@ -1,4 +1,4 @@
-# Alfabeto em Inglês:
+# English Alphabeth:
  
 | Letra do Alfabeto | Pronúncia em Inglês |
 | :---------------- | :------------------ |
